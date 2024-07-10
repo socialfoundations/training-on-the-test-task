@@ -1,0 +1,7 @@
+numpy
+matplotlib
+seaborn
+statsmodels
+pwlf
+tqdm
+scipy
